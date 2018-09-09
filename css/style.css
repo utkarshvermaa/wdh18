@@ -64,6 +64,8 @@ body{
 	position: absolute;
 	top :5%;
 	left: 1.8%;
+/*    height: 25%;*/
+/*    width: 30%;*/
 }
 .logoieee
 {
@@ -71,6 +73,7 @@ body{
 	position: absolute;
 	top :6%;
 	left: 87%;
+/*    width: 85%;*/
 }
 .page-in .navbar ul
 {
