@@ -127,6 +127,7 @@ body{
 	float: left;
 	text-align: left;
 	width:60%;
+    text-align: justify;
 }
 .content .title {
 	font-family: Arial, sans-serif;
@@ -279,11 +280,11 @@ body{
   margin: 0;
   padding: 0;
   left:0;
-  background-position: 50% 20%;	
+  background-position: 80% 50%;	
   background-size: cover;
   background-repeat: no-repeat;	
   float: left;
-  opacity: 0;
+  opacity: 0.6;
   z-index: 0;
   animation: imageAnimation 50s linear infinite; 
 
