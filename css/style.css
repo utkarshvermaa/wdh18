@@ -294,9 +294,9 @@ body{
   background-size: cover;
   background-repeat: no-repeat;	
   float: left;
-  opacity: 0.6;
+  opacity: 0.4;
   z-index: 0;
-  animation: imageAnimation 50s linear infinite; 
+/*  animation: imageAnimation 10s linear infinite; */
 
 }
 
