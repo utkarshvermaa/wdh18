@@ -14,15 +14,16 @@ table.greyGridTable {
   width: 100%;
   text-align: center;
   border-collapse: collapse;
+/*    font-size: 1em;*/
   
 }
 table.greyGridTable td, table.greyGridTable th {
-  font-size: 100%;
+  font-size: 133%;
   border: 1px solid #FFFFFF;
   padding: 3px 4px;
 }
 table.greyGridTable tbody td {
- font-size: 13px;
+ font-size: 1em;
 }
 table.greyGridTable td:nth-child(even) {
   background: #EBEBEB;
@@ -32,7 +33,7 @@ table.greyGridTable thead {
   border-bottom: 4px solid #333333;
 }
 table.greyGridTable thead th {
-  font-size: 125%;
+  font-size: 1.3em;
   font-weight: bold;
   color: #333333;
   text-align: center;
@@ -64,6 +65,7 @@ body{
 	position: absolute;
 	top :5%;
 	left: 1.8%;
+    align-content: flex-start;
 /*    height: 25%;*/
 /*    width: 30%;*/
 }
@@ -73,6 +75,7 @@ body{
 	position: absolute;
 	top :6%;
 	left: 87%;
+    align-content: flex-end;
 /*    width: 85%;*/
 }
 .page-in .navbar ul
